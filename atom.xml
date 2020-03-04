@@ -1,40 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ponyc.github.io</id>
-    <title>落日烟</title>
-    <updated>2020-03-04T13:55:37.484Z</updated>
+    <title>千年雨歇</title>
+    <updated>2020-03-04T14:02:02.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ponyc.github.io"/>
     <link rel="self" href="https://ponyc.github.io/atom.xml"/>
-    <subtitle>网站描述</subtitle>
     <logo>https://ponyc.github.io/images/avatar.png</logo>
     <icon>https://ponyc.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 落日烟</rights>
+    <rights>All rights reserved 2020, 千年雨歇</rights>
     <entry>
         <title type="html"><![CDATA[作品展示]]></title>
         <id>https://ponyc.github.io/post/zuo-pin-zhan-shi/</id>
         <link href="https://ponyc.github.io/post/zuo-pin-zhan-shi/">
         </link>
         <updated>2020-03-04T12:37:29.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="妆容展示">妆容展示</h2>
-<p><img src="https://ponyc.github.io/post-images/1583329481685.jpg" alt="" width="600" loading="lazy"><br>
-<img src="https://ponyc.github.io/post-images/1583329486279.jpg" alt="" width="600" loading="lazy"><br>
-<img src="https://ponyc.github.io/post-images/1583329490399.jpg" alt="" width="600" loading="lazy"><br>
-<img src="https://ponyc.github.io/post-images/1583329495597.jpg" alt="" width="600" loading="lazy"><br>
-<img src="https://ponyc.github.io/post-images/1583329500215.jpg" alt="" width="600" loading="lazy"><br>
-<img src="https://ponyc.github.io/post-images/1583329504331.jpg" alt="" width="600" loading="lazy"></p>
-<h2 id="话剧旧风尘">话剧《旧风尘》</h2>
-<p><img src="https://ponyc.github.io/post-images/1583329466648.jpg" alt="" width="600" loading="lazy"><br>
-<img src="https://ponyc.github.io/post-images/1583329471800.jpg" alt="" width="600" loading="lazy"></p>
-<h2 id="配饰作品">配饰作品</h2>
-<p><img src="https://ponyc.github.io/post-images/1583329439256.jpg" alt="" width="600" loading="lazy"><br>
-<img src="https://ponyc.github.io/post-images/1583329445152.jpg" alt="" width="600" loading="lazy"><br>
-<img src="https://ponyc.github.io/post-images/1583329449784.jpg" alt="" width="600" loading="lazy"><br>
-<img src="https://ponyc.github.io/post-images/1583329454344.jpg" alt="" width="600" loading="lazy"></p>
-<h2 id="手机摄影作品">手机摄影作品</h2>
-<p><img src="https://ponyc.github.io/post-images/1583329419384.jpg" alt="" width="600" loading="lazy"><br>
-<img src="https://ponyc.github.io/post-images/1583329422952.jpg" alt="" width="600" loading="lazy"><br>
-<img src="https://ponyc.github.io/post-images/1583329426206.jpg" alt="" width="600" loading="lazy"></p>
-]]></content>
     </entry>
 </feed>
